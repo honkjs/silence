@@ -1,5 +1,3 @@
-# honkjs/silence
-
 <div>
   <!-- npm -->
   <a href="https://www.npmjs.com/package/@honkjs/silence">
@@ -22,6 +20,8 @@
     <img src="https://img.shields.io/travis/honkjs/silence/master.svg?style=flat-square" alt="build status" />
   </a>
 </div>
+
+# honkjs/silence
 
 Because you hate honking.
 
