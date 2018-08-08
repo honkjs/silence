@@ -1,6 +1,19 @@
-# honkjs/silence
+# honkjs/silence [![npm-img]][npm-link] [![dep-img]][dep-link] [![dev-img]][dev-link]
+
+[npm-img]: https://img.shields.io/npm/v/@honkjs/silence.svg?style=flat-square 'npm version'
+[npm-link]: https://www.npmjs.com/package/@honkjs/silence
+[dep-img]: https://david-dm.org/honkjs/silence.svg?style=flat-square 'dependency status'
+[dep-link]: https://david-dm.org/honkjs/silence
+[dev-img]: https://david-dm.org/honkjs/silence/dev-status.svg?style=flat-square 'dev dependency status'
+[dev-link]: https://david-dm.org/honkjs/silence?type=dev
 
 Because you hate honking.
+
+# Getting Started
+
+```
+npm install @honkjs/silence
+```
 
 ```ts
 import Honk from '@honkjs/honk';
@@ -8,7 +21,7 @@ import silence from '@honkjs/silence';
 
 const honk = new Honk().use(silence()).honk;
 
-honk(); // output: Nothing. Just the silence of your cold, dead heart.
+honk(); // output: Nothing
 ```
 
 # Concepts
