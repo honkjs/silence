@@ -1,11 +1,27 @@
-# honkjs/silence [![npm-img]][npm-link] [![dep-img]][dep-link] [![dev-img]][dev-link]
+# honkjs/silence
 
-[npm-img]: https://img.shields.io/npm/v/@honkjs/silence.svg?style=flat-square 'npm version'
-[npm-link]: https://www.npmjs.com/package/@honkjs/silence
-[dep-img]: https://david-dm.org/honkjs/silence.svg?style=flat-square 'dependency status'
-[dep-link]: https://david-dm.org/honkjs/silence
-[dev-img]: https://david-dm.org/honkjs/silence/dev-status.svg?style=flat-square 'dev dependency status'
-[dev-link]: https://david-dm.org/honkjs/silence?type=dev
+<div>
+  <!-- npm -->
+  <a href="https://www.npmjs.com/package/@honkjs/silence">
+    <img src="https://img.shields.io/npm/v/@honkjs/silence.svg?style=flat-square" alt="npm version" />
+  </a>
+  <!--  dependencies -->
+  <a href="https://david-dm.org/honkjs/silence">
+    <img src="https://david-dm.org/honkjs/silence.svg?style=flat-square" alt="dependency status" />
+  </a>
+  <!-- dev dependencies  -->
+  <a href="https://david-dm.org/honkjs/silence&type=dev">
+    <img src="https://david-dm.org/honkjs/silence/dev-status.svg?style=flat-square" alt="dev dependency status" />
+  </a>
+  <!-- coverage -->
+  <a href="https://codecov.io/github/honkjs/silence">
+    <img src="https://img.shields.io/codecov/c/github/honkjs/silence/master.svg?style=flat-square" alt="test coverage" />
+  </a>
+  <!-- build -->
+  <a href="https://travis-ci.org/honkjs/silence">
+    <img src="https://img.shields.io/travis/honkjs/silence/master.svg?style=flat-square" alt="build status" />
+  </a>
+</div>
 
 Because you hate honking.
 
