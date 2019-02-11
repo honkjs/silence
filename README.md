@@ -23,6 +23,8 @@
 
 # honkjs/silence
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/honkjs/silence.svg)](https://greenkeeper.io/)
+
 Because you hate honking.
 
 # Getting Started
