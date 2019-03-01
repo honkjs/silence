@@ -27,14 +27,14 @@
   },
   "homepage": "https://github.com/honkjs/silence",
   "dependencies": {
-    "@honkjs/honk": "^1.0.5"
+    "@honkjs/honk": "^2.0.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
     "jest": "^24.1.0",
     "np": "^4.0.2",
     "ts-jest": "^24.0.0",
-    "typescript": "^3.1.6"
+    "typescript": "^3.3.3333"
   },
   "publishConfig": {
     "access": "public",
