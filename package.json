@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/honkjs/silence",
   "dependencies": {
-    "@honkjs/honk": "^2.0.0"
+    "@honkjs/honk": "^3.0.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.15",
