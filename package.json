@@ -13,28 +13,26 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
-    "version": "tsc",
-    "release": "np"
+    "version": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/honkjs/silence.git"
   },
-  "author": "Kellen Piffner",
+  "author": "Kel Piffner",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/honkjs/silence/issues"
   },
   "homepage": "https://github.com/honkjs/silence",
   "dependencies": {
-    "@honkjs/honk": "^2.0.0"
+    "@honkjs/honk": "^3.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^25.2.1",
-    "jest": "^25.4.0",
-    "np": "^6.2.3",
-    "ts-jest": "^25.4.0",
-    "typescript": "^3.8.3"
+    "@types/jest": "^29.4.0",
+    "jest": "^29.4.3",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.5"
   },
   "publishConfig": {
     "access": "public",

@@ -3,27 +3,9 @@
   <a href="https://www.npmjs.com/package/@honkjs/silence">
     <img src="https://img.shields.io/npm/v/@honkjs/silence.svg?style=flat-square" alt="npm version" />
   </a>
-  <!--  dependencies -->
-  <a href="https://david-dm.org/honkjs/silence">
-    <img src="https://david-dm.org/honkjs/silence.svg?style=flat-square" alt="dependency status" />
-  </a>
-  <!-- dev dependencies  -->
-  <a href="https://david-dm.org/honkjs/silence&type=dev">
-    <img src="https://david-dm.org/honkjs/silence/dev-status.svg?style=flat-square" alt="dev dependency status" />
-  </a>
-  <!-- coverage -->
-  <a href="https://codecov.io/github/honkjs/silence">
-    <img src="https://img.shields.io/codecov/c/github/honkjs/silence/master.svg?style=flat-square" alt="test coverage" />
-  </a>
-  <!-- build -->
-  <a href="https://travis-ci.org/honkjs/silence">
-    <img src="https://img.shields.io/travis/honkjs/silence/master.svg?style=flat-square" alt="build status" />
-  </a>
 </div>
 
 # honkjs/silence
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/honkjs/silence.svg)](https://greenkeeper.io/)
 
 Because you hate honking.
 
